@@ -1,29 +1,38 @@
 ﻿# LeetCode Solutions
 
-My collection of LeetCode solutions written in C++.
+My C++ solutions to LeetCode problems, organized by topic.
 
-I use this repository to track my problem-solving practice, understand algorithms, and improve my Data Structures and Algorithms skills.
+## Problems Solved
+
+| Problem # | Problem | Topic | Difficulty |
+|---:|---|---|---|
+| 1 | Two Sum | Hashing | Easy |
+| 4 | Median of Two Sorted Arrays | Binary Search | Hard |
+| 9 | Palindrome Number | Math | Easy |
+| 10 | Regular Expression Matching | Dynamic Programming | Hard |
+| 11 | Container With Most Water | Two Pointers | Medium |
+| 125 | Valid Palindrome | Two Pointers | Easy |
+| 217 | Contains Duplicate | Hashing | Easy |
+| 242 | Valid Anagram | Hashing | Easy |
+| 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
 
 ## Language
 - C++
 
-## Solutions
-
-| # | Problem | Topic | Difficulty |
-|---|---|---|---|
-| 1 | Two Sum | Hashing | Easy |
-| 217 | Contains Duplicate | Hashing | Easy |
-| 462 | Minimum Moves to Equal Array Elements II | Arrays, Sorting | Medium |
-| 242 | Valid Anagram | Hashing | Easy |
-| 125 | Valid Palindrome | Two Pointers | Easy |
-
 ## Repository Structure
 
-```text
-leetcode-solutions/
-├── Arrays/
-├── Hashing/
-├── Strings/
-├── Two-Pointers/
-└── README.md
+- Arrays/
+- Binary-Search/
+- Dynamic-Programming/
+- Hashing/
+- Math/
+- Strings/
+- Two-Pointers/
 
+## Goal
+
+- Improve Data Structures and Algorithms skills.
+- Learn efficient approaches and complexity analysis.
+- Maintain a record of genuine problem-solving practice.
+
+More solutions will be added as I solve new problems.
