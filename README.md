@@ -36,3 +36,4 @@ My C++ solutions to LeetCode problems, organized by topic.
 - Maintain a record of genuine problem-solving practice.
 
 More solutions will be added as I solve new problems.
+| 23 | Merge k Sorted Lists | Heap | Hard |
