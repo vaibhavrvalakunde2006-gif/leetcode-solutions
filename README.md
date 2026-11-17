@@ -16,6 +16,10 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 242 | Valid Anagram | Hashing | Easy |
 | 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
 
+| 2 | Add Two Numbers | Linked List | Medium |
+| 3 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
+| 5 | Longest Palindromic Substring | Strings | Medium |
+| 25 | Reverse Nodes in k-Group | Linked List | Hard |
 ## Language
 - C++
 
@@ -37,3 +41,4 @@ My C++ solutions to LeetCode problems, organized by topic.
 
 More solutions will be added as I solve new problems.
 | 23 | Merge k Sorted Lists | Heap | Hard |
+
