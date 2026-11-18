@@ -7,19 +7,23 @@ My C++ solutions to LeetCode problems, organized by topic.
 | Problem # | Problem | Topic | Difficulty |
 |---:|---|---|---|
 | 1 | Two Sum | Hashing | Easy |
+| 2 | Add Two Numbers | Linked List | Medium |
+| 3 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
 | 4 | Median of Two Sorted Arrays | Binary Search | Hard |
+| 5 | Longest Palindromic Substring | Strings | Medium |
+| 6 | Zigzag Conversion | Strings | Medium |
 | 9 | Palindrome Number | Math | Easy |
 | 10 | Regular Expression Matching | Dynamic Programming | Hard |
 | 11 | Container With Most Water | Two Pointers | Medium |
+| 23 | Merge k Sorted Lists | Heap | Hard |
+| 25 | Reverse Nodes in k-Group | Linked List | Hard |
 | 125 | Valid Palindrome | Two Pointers | Easy |
 | 217 | Contains Duplicate | Hashing | Easy |
 | 242 | Valid Anagram | Hashing | Easy |
+| 453 | Minimum Moves to Equal Array Elements | Arrays | Easy |
 | 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | Strings | Medium |
 
-| 2 | Add Two Numbers | Linked List | Medium |
-| 3 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
-| 5 | Longest Palindromic Substring | Strings | Medium |
-| 25 | Reverse Nodes in k-Group | Linked List | Hard |
 ## Language
 - C++
 
@@ -29,7 +33,10 @@ My C++ solutions to LeetCode problems, organized by topic.
 - Binary-Search/
 - Dynamic-Programming/
 - Hashing/
+- Heap/
+- Linked-List/
 - Math/
+- Sliding-Window/
 - Strings/
 - Two-Pointers/
 
@@ -37,8 +44,6 @@ My C++ solutions to LeetCode problems, organized by topic.
 
 - Improve Data Structures and Algorithms skills.
 - Learn efficient approaches and complexity analysis.
-- Maintain a record of genuine problem-solving practice.
+- Maintain a record of problem-solving practice.
 
 More solutions will be added as I solve new problems.
-| 23 | Merge k Sorted Lists | Heap | Hard |
-
