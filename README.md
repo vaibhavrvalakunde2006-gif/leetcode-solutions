@@ -22,6 +22,9 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 242 | Valid Anagram | Hashing | Easy |
 | 453 | Minimum Moves to Equal Array Elements | Arrays | Easy |
 | 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
+| 2243 | Calculate Digit Sum of a String | Strings | Easy |
+| 2567 | Minimum Score by Changing Two Elements | Sorting | Medium |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Dynamic Programming | Hard |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Strings | Medium |
 
 ## Language
