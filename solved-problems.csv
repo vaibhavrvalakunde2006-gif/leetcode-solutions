@@ -1,4 +1,4 @@
-﻿"title","titleSlug","timestamp"
+"title","titleSlug","timestamp"
 "Add Two Numbers","add-two-numbers","1794925475"
 "Calculate Digit Sum of a String","calculate-digit-sum-of-a-string","1795100184"
 "Container With Most Water","container-with-most-water","1794585299"
@@ -19,3 +19,6 @@
 "Valid Anagram","valid-anagram","1793724670"
 "Valid Palindrome","valid-palindrome","1793804249"
 "Zigzag Conversion","zigzag-conversion","1794982002"
+"Maximize Consecutive Elements in an Array After Modification","maximize-consecutive-elements-in-an-array-after-modification",""
+"Reverse Integer","reverse-integer",""
+"String to Integer (atoi)","string-to-integer-atoi",""

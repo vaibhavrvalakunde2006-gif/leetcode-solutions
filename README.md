@@ -50,3 +50,10 @@ My C++ solutions to LeetCode problems, organized by topic.
 - Maintain a record of problem-solving practice.
 
 More solutions will be added as I solve new problems.
+
+## Solutions Added — November 20, 2026
+
+- [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — [Arrays/3041-maximize-consecutive-elements-after-modification.cpp](Arrays/3041-maximize-consecutive-elements-after-modification.cpp)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) — [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) — [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
+
