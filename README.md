@@ -1,4 +1,4 @@
-# LeetCode Solutions
+ï»¿# LeetCode Solutions
 
 My C++ solutions to LeetCode problems, organized by topic.
 
@@ -27,6 +27,18 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 2911 | Minimum Changes to Make K Semi-palindromes | Dynamic Programming | Hard |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Strings | Medium |
 
+| 7 | Reverse Integer | Math | Medium |
+
+| 8 | String to Integer (atoi) | Strings | Medium |
+
+| 12 | Integer to Roman | Strings | Medium |
+
+| 13 | Roman to Integer | Strings | Easy |
+
+| 3041 | Maximize Consecutive Elements in an Array After Modification | Arrays | Medium |
+
+| 3331 | Find Subtree Sizes After Changes | Trees | Medium |
+
 ## Language
 - C++
 
@@ -42,6 +54,7 @@ My C++ solutions to LeetCode problems, organized by topic.
 - Sliding-Window/
 - Strings/
 - Two-Pointers/
+- Trees/
 
 ## Goal
 
@@ -51,17 +64,17 @@ My C++ solutions to LeetCode problems, organized by topic.
 
 More solutions will be added as I solve new problems.
 
-## Solutions Added — November 20, 2026
+## Solutions Added â€” November 20, 2026
 
-- [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — [Arrays/3041-maximize-consecutive-elements-after-modification.cpp](Arrays/3041-maximize-consecutive-elements-after-modification.cpp)
-- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) — [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
-- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) — [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
-
-
-## Solutions Added — 2026-11-21
+- [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) â€” [Arrays/3041-maximize-consecutive-elements-after-modification.cpp](Arrays/3041-maximize-consecutive-elements-after-modification.cpp)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) â€” [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) â€” [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
 
 
 
-- [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) — [Trees/3331-find-subtree-sizes-after-changes.cpp](Trees/3331-find-subtree-sizes-after-changes.cpp) — 2026-11-21 21:29:13 IST
-- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) — [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) — 2026-11-21 21:29:49 IST
-- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) — [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) — 2026-11-21 21:30:28 IST
+## Solutions Added â€” November 21, 2026
+
+- [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) â€” [Trees/3331-find-subtree-sizes-after-changes.cpp](Trees/3331-find-subtree-sizes-after-changes.cpp) â€” 1795276753
+- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) â€” [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) â€” 1795276789
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) â€” [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) â€” 1795276828
+
