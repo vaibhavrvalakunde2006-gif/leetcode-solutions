@@ -12,9 +12,13 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 4 | Median of Two Sorted Arrays | Binary Search | Hard |
 | 5 | Longest Palindromic Substring | Strings | Medium |
 | 6 | Zigzag Conversion | Strings | Medium |
+| 7 | Reverse Integer | Math | Medium |
+| 8 | String to Integer (atoi) | Strings | Medium |
 | 9 | Palindrome Number | Math | Easy |
 | 10 | Regular Expression Matching | Dynamic Programming | Hard |
 | 11 | Container With Most Water | Two Pointers | Medium |
+| 12 | Integer to Roman | Strings | Medium |
+| 13 | Roman to Integer | Strings | Easy |
 | 23 | Merge k Sorted Lists | Heap | Hard |
 | 25 | Reverse Nodes in k-Group | Linked List | Hard |
 | 125 | Valid Palindrome | Two Pointers | Easy |
@@ -26,17 +30,7 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 2567 | Minimum Score by Changing Two Elements | Sorting | Medium |
 | 2911 | Minimum Changes to Make K Semi-palindromes | Dynamic Programming | Hard |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Strings | Medium |
-
-| 7 | Reverse Integer | Math | Medium |
-
-| 8 | String to Integer (atoi) | Strings | Medium |
-
-| 12 | Integer to Roman | Strings | Medium |
-
-| 13 | Roman to Integer | Strings | Easy |
-
 | 3041 | Maximize Consecutive Elements in an Array After Modification | Arrays | Medium |
-
 | 3331 | Find Subtree Sizes After Changes | Trees | Medium |
 
 ## Language
@@ -52,6 +46,7 @@ My C++ solutions to LeetCode problems, organized by topic.
 - Linked-List/
 - Math/
 - Sliding-Window/
+- Sorting/
 - Strings/
 - Two-Pointers/
 - Trees/
@@ -77,4 +72,5 @@ More solutions will be added as I solve new problems.
 - [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) — [Trees/3331-find-subtree-sizes-after-changes.cpp](Trees/3331-find-subtree-sizes-after-changes.cpp) — 1795276753
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) — [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) — 1795276789
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) — [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) — 1795276828
+
 
