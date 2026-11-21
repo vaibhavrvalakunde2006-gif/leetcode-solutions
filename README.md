@@ -57,3 +57,7 @@ More solutions will be added as I solve new problems.
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) — [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) — [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
 
+
+## Solutions Added — 2026-11-21
+
+
