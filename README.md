@@ -19,6 +19,8 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 11 | Container With Most Water | Two Pointers | Medium |
 | 12 | Integer to Roman | Strings | Medium |
 | 13 | Roman to Integer | Strings | Easy |
+| 14 | Longest Common Prefix | Strings | Easy |
+| 15 | 3Sum | Two Pointers | Medium |
 | 23 | Merge k Sorted Lists | Heap | Hard |
 | 25 | Reverse Nodes in k-Group | Linked List | Hard |
 | 125 | Valid Palindrome | Two Pointers | Easy |
@@ -26,6 +28,7 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 242 | Valid Anagram | Hashing | Easy |
 | 453 | Minimum Moves to Equal Array Elements | Arrays | Easy |
 | 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
+| 2124 | Check if All A's Appears Before All B's | Strings | Easy |
 | 2243 | Calculate Digit Sum of a String | Strings | Easy |
 | 2567 | Minimum Score by Changing Two Elements | Sorting | Medium |
 | 2911 | Minimum Changes to Make K Semi-palindromes | Dynamic Programming | Hard |
@@ -73,4 +76,9 @@ More solutions will be added as I solve new problems.
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) — [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) — 1795276789
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) — [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) — 1795276828
 
+## Solutions Added — November 22, 2026
+
+- [15. 3Sum](https://leetcode.com/problems/3sum/) — [Arrays/0015-3sum.cpp](Arrays/0015-3sum.cpp) — `1795351499`
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — [Strings/0014-longest-common-prefix.cpp](Strings/0014-longest-common-prefix.cpp) — `1795351464`
+- [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — [Strings/2124-check-if-all-as-appears-before-all-bs.cpp](Strings/2124-check-if-all-as-appears-before-all-bs.cpp) — `1795351427`
 
