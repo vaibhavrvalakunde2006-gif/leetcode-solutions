@@ -21,6 +21,8 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 13 | Roman to Integer | Strings | Easy |
 | 14 | Longest Common Prefix | Strings | Easy |
 | 15 | 3Sum | Two Pointers | Medium |
+| 16 | 3Sum Closest | Two Pointers | Medium |
+| 17 | Letter Combinations of a Phone Number | Backtracking | Medium |
 | 23 | Merge k Sorted Lists | Heap | Hard |
 | 25 | Reverse Nodes in k-Group | Linked List | Hard |
 | 125 | Valid Palindrome | Two Pointers | Easy |
@@ -28,6 +30,7 @@ My C++ solutions to LeetCode problems, organized by topic.
 | 242 | Valid Anagram | Hashing | Easy |
 | 453 | Minimum Moves to Equal Array Elements | Arrays | Easy |
 | 462 | Minimum Moves to Equal Array Elements II | Sorting | Medium |
+| 1352 | Product of the Last K Numbers | Arrays | Medium |
 | 2124 | Check if All A's Appears Before All B's | Strings | Easy |
 | 2243 | Calculate Digit Sum of a String | Strings | Easy |
 | 2567 | Minimum Score by Changing Two Elements | Sorting | Medium |
@@ -82,3 +85,9 @@ More solutions will be added as I solve new problems.
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — [Strings/0014-longest-common-prefix.cpp](Strings/0014-longest-common-prefix.cpp) — `1795351464`
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — [Strings/2124-check-if-all-as-appears-before-all-bs.cpp](Strings/2124-check-if-all-as-appears-before-all-bs.cpp) — `1795351427`
 
+
+## Solutions Added — November 23, 2026
+
+- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Arrays/1352-product-of-the-last-k-numbers.cpp — `1795449462`
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) — Two-Pointers/0016-3sum-closest.cpp — `1795449538`
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) — Backtracking/0017-letter-combinations-of-a-phone-number.cpp — `1795449626`

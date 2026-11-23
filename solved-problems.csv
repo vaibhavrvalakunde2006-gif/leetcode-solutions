@@ -28,3 +28,6 @@
 "Valid Anagram","valid-anagram","1793724670","242","Easy","Hashing/0242-valid-anagram.cpp","2026-11-03"
 "Valid Palindrome","valid-palindrome","1793804249","125","Easy","Two-Pointers/0125-valid-palindrome.cpp","2026-11-04"
 "Zigzag Conversion","zigzag-conversion","1794982002","6","Medium","Strings/0006-zigzag-conversion.cpp","2026-11-18"
+"Product of the Last K Numbers","product-of-the-last-k-numbers","1795449462","1352","Medium","Arrays/1352-product-of-the-last-k-numbers.cpp","2026-11-23"
+"3Sum Closest","3sum-closest","1795449538","16","Medium","Two-Pointers/0016-3sum-closest.cpp","2026-11-23"
+"Letter Combinations of a Phone Number","letter-combinations-of-a-phone-number","1795449626","17","Medium","Backtracking/0017-letter-combinations-of-a-phone-number.cpp","2026-11-23"
