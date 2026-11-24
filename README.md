@@ -1,4 +1,4 @@
-﻿# LeetCode Solutions
+# LeetCode Solutions
 
 My C++ and Python solutions to LeetCode problems, organized by topic.
 
@@ -99,9 +99,9 @@ More solutions will be added as I solve new problems.
 - [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) — Two-Pointers/0016-3sum-closest.cpp — `1795449538`
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) — Backtracking/0017-letter-combinations-of-a-phone-number.cpp — `1795449626`
 
-## Solutions Added ? November 24, 2026
+## Solutions Added - November 24, 2026
 
-- [3420. Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) ? [Python/3420-count-non-decreasing-subarrays-after-k-operations.py](Python/3420-count-non-decreasing-subarrays-after-k-operations.py) ? `1795532673`
-- [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) ? [Arrays/3411-maximum-subarray-with-equal-products.cpp](Arrays/3411-maximum-subarray-with-equal-products.cpp) ? `1795532185`
-- [3364. Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) ? [Python/3364-minimum-positive-sum-subarray.py](Python/3364-minimum-positive-sum-subarray.py) ? `1795532436`
-- [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) ? [Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp](Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp) ? `1795532256`
+- [3420. Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Python/3420-count-non-decreasing-subarrays-after-k-operations.py](Python/3420-count-non-decreasing-subarrays-after-k-operations.py) | `1795532673`
+- [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Arrays/3411-maximum-subarray-with-equal-products.cpp](Arrays/3411-maximum-subarray-with-equal-products.cpp) | `1795532185`
+- [3364. Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Python/3364-minimum-positive-sum-subarray.py](Python/3364-minimum-positive-sum-subarray.py) | `1795532436`
+- [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp](Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp) | `1795532256`
