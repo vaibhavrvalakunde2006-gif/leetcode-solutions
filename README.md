@@ -38,10 +38,13 @@ My C++ and Python solutions to LeetCode problems, organized by topic.
 | 2911 | Minimum Changes to Make K Semi-palindromes | Dynamic Programming | Hard |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Strings | Medium |
 | 3041 | Maximize Consecutive Elements in an Array After Modification | Arrays | Medium |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Arrays | Easy |
 | 3331 | Find Subtree Sizes After Changes | Trees | Medium |
 | 3364 | Minimum Positive Sum Subarray | Arrays | Easy |
 | 3411 | Maximum Subarray With Equal Products | Arrays | Easy |
 | 3420 | Count Non-Decreasing Subarrays After K Operations | Sliding Window | Hard |
+| 3789 | Minimum Cost to Acquire Required Items | Math | Medium |
+| 3934 | Smallest Unique Subarray | Arrays | TBD |
 
 ## Languages
 - C++
@@ -105,3 +108,9 @@ More solutions will be added as I solve new problems.
 - [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Arrays/3411-maximum-subarray-with-equal-products.cpp](Arrays/3411-maximum-subarray-with-equal-products.cpp) | `1795532185`
 - [3364. Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Python/3364-minimum-positive-sum-subarray.py](Python/3364-minimum-positive-sum-subarray.py) | `1795532436`
 - [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp](Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp) | `1795532256`
+
+## Solutions Added - November 25, 2026
+
+- [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Python/3789-minimum-cost-to-acquire-required-items.py](Python/3789-minimum-cost-to-acquire-required-items.py) | `2203263732`
+- [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Arrays/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py](Arrays/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) | `2203262956`
+- [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Arrays/3934-smallest-unique-subarray.cpp](Arrays/3934-smallest-unique-subarray.cpp) | `2203262351`
