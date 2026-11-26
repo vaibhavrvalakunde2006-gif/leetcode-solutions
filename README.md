@@ -44,6 +44,8 @@ My C++ and Python solutions to LeetCode problems, organized by topic.
 | 3411 | Maximum Subarray With Equal Products | Arrays | Easy |
 | 3420 | Count Non-Decreasing Subarrays After K Operations | Sliding Window | Hard |
 | 3789 | Minimum Cost to Acquire Required Items | Math | Medium |
+| 3360 | Stone Removal Game | Game Theory | Easy |
+| 3693 | Climbing Stairs II | Dynamic Programming | Medium |
 | 3934 | Smallest Unique Subarray | Arrays | TBD |
 
 ## Languages
@@ -114,3 +116,7 @@ More solutions will be added as I solve new problems.
 - [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Python/3789-minimum-cost-to-acquire-required-items.py](Python/3789-minimum-cost-to-acquire-required-items.py) | `2203263732`
 - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Arrays/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py](Arrays/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) | `2203262956`
 - [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Arrays/3934-smallest-unique-subarray.cpp](Arrays/3934-smallest-unique-subarray.cpp) | `2203262351`
+## Solutions Added - November 26, 2026
+
+- [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [Python/3360-stone-removal-game.py](Python/3360-stone-removal-game.py)
+- [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Dynamic-Programming/3693-climbing-stairs-ii.py](Dynamic-Programming/3693-climbing-stairs-ii.py)
