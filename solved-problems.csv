@@ -35,3 +35,6 @@ Maximum Subarray With Equal Products,maximum-subarray-with-equal-products,179553
 Number of Sub-arrays With Odd Sum,number-of-sub-arrays-with-odd-sum,1795532256,1524,Medium,Prefix-Sum/1524-number-of-sub-arrays-with-odd-sum.cpp,2026-11-24
 Minimum Positive Sum Subarray,minimum-positive-sum-subarray,1795532436,3364,Easy,Python/3364-minimum-positive-sum-subarray.py,2026-11-24
 Count Non-Decreasing Subarrays After K Operations,count-non-decreasing-subarrays-after-k-operations,1795532673,3420,Hard,Python/3420-count-non-decreasing-subarrays-after-k-operations.py,2026-11-24
+
+Stone Removal Game,stone-removal-game,1795703846,3360,Easy,Python/3360-stone-removal-game.py,2026-11-26
+Climbing Stairs II,climbing-stairs-ii,1795703923,3693,Medium,Dynamic-Programming/3693-climbing-stairs-ii.py,2026-11-26
