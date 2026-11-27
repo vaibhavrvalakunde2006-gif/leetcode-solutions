@@ -1,4 +1,4 @@
-# LeetCode Solutions
+﻿# LeetCode Solutions
 
 My C++ and Python solutions to LeetCode problems, organized by topic.
 
@@ -47,6 +47,8 @@ My C++ and Python solutions to LeetCode problems, organized by topic.
 | 3360 | Stone Removal Game | Game Theory | Easy |
 | 3693 | Climbing Stairs II | Dynamic Programming | Medium |
 | 3934 | Smallest Unique Subarray | Arrays | TBD |
+| 1606 | Find Servers That Handled Most Number of Requests | Heap / Fenwick Tree | Hard |
+| 3946 | Maximum Number of Items From Sale I | Dynamic Programming | Medium |
 
 ## Languages
 - C++
@@ -77,32 +79,32 @@ My C++ and Python solutions to LeetCode problems, organized by topic.
 
 More solutions will be added as I solve new problems.
 
-## Solutions Added — November 20, 2026
+## Solutions Added â€” November 20, 2026
 
-- [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — [Arrays/3041-maximize-consecutive-elements-after-modification.cpp](Arrays/3041-maximize-consecutive-elements-after-modification.cpp)
-- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) — [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
-- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) — [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
-
-
-
-## Solutions Added — November 21, 2026
-
-- [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) — [Trees/3331-find-subtree-sizes-after-changes.cpp](Trees/3331-find-subtree-sizes-after-changes.cpp) — 1795276753
-- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) — [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) — 1795276789
-- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) — [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) — 1795276828
-
-## Solutions Added — November 22, 2026
-
-- [15. 3Sum](https://leetcode.com/problems/3sum/) — [Arrays/0015-3sum.cpp](Arrays/0015-3sum.cpp) — `1795351499`
-- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — [Strings/0014-longest-common-prefix.cpp](Strings/0014-longest-common-prefix.cpp) — `1795351464`
-- [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — [Strings/2124-check-if-all-as-appears-before-all-bs.cpp](Strings/2124-check-if-all-as-appears-before-all-bs.cpp) — `1795351427`
+- [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) â€” [Arrays/3041-maximize-consecutive-elements-after-modification.cpp](Arrays/3041-maximize-consecutive-elements-after-modification.cpp)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) â€” [Math/0007-reverse-integer.cpp](Math/0007-reverse-integer.cpp)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) â€” [Strings/0008-string-to-integer-atoi.cpp](Strings/0008-string-to-integer-atoi.cpp)
 
 
-## Solutions Added — November 23, 2026
 
-- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Arrays/1352-product-of-the-last-k-numbers.cpp — `1795449462`
-- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) — Two-Pointers/0016-3sum-closest.cpp — `1795449538`
-- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) — Backtracking/0017-letter-combinations-of-a-phone-number.cpp — `1795449626`
+## Solutions Added â€” November 21, 2026
+
+- [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) â€” [Trees/3331-find-subtree-sizes-after-changes.cpp](Trees/3331-find-subtree-sizes-after-changes.cpp) â€” 1795276753
+- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) â€” [Strings/0012-integer-to-roman.cpp](Strings/0012-integer-to-roman.cpp) â€” 1795276789
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) â€” [Strings/0013-roman-to-integer.cpp](Strings/0013-roman-to-integer.cpp) â€” 1795276828
+
+## Solutions Added â€” November 22, 2026
+
+- [15. 3Sum](https://leetcode.com/problems/3sum/) â€” [Arrays/0015-3sum.cpp](Arrays/0015-3sum.cpp) â€” `1795351499`
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) â€” [Strings/0014-longest-common-prefix.cpp](Strings/0014-longest-common-prefix.cpp) â€” `1795351464`
+- [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) â€” [Strings/2124-check-if-all-as-appears-before-all-bs.cpp](Strings/2124-check-if-all-as-appears-before-all-bs.cpp) â€” `1795351427`
+
+
+## Solutions Added â€” November 23, 2026
+
+- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) â€” Arrays/1352-product-of-the-last-k-numbers.cpp â€” `1795449462`
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) â€” Two-Pointers/0016-3sum-closest.cpp â€” `1795449538`
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) â€” Backtracking/0017-letter-combinations-of-a-phone-number.cpp â€” `1795449626`
 
 ## Solutions Added - November 24, 2026
 
@@ -120,3 +122,8 @@ More solutions will be added as I solve new problems.
 
 - [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [Python/3360-stone-removal-game.py](Python/3360-stone-removal-game.py)
 - [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Dynamic-Programming/3693-climbing-stairs-ii.py](Dynamic-Programming/3693-climbing-stairs-ii.py)
+
+## Solutions Added - November 27, 2026
+
+- [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Python/1606-find-servers-that-handled-most-number-of-requests.py](Python/1606-find-servers-that-handled-most-number-of-requests.py)
+- [3946. Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Python/3946-maximum-number-of-items-from-sale-i.py](Python/3946-maximum-number-of-items-from-sale-i.py)

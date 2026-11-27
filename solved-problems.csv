@@ -38,3 +38,5 @@ Count Non-Decreasing Subarrays After K Operations,count-non-decreasing-subarrays
 
 Stone Removal Game,stone-removal-game,1795703846,3360,Easy,Python/3360-stone-removal-game.py,2026-11-26
 Climbing Stairs II,climbing-stairs-ii,1795703923,3693,Medium,Dynamic-Programming/3693-climbing-stairs-ii.py,2026-11-26
+Find Servers That Handled Most Number of Requests,find-servers-that-handled-most-number-of-requests,,1606,Hard,Python/1606-find-servers-that-handled-most-number-of-requests.py,2026-11-27
+Maximum Number of Items From Sale I,maximum-number-of-items-from-sale-i,,3946,Medium,Python/3946-maximum-number-of-items-from-sale-i.py,2026-11-27
