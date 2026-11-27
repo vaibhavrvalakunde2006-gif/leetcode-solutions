@@ -1,4 +1,4 @@
-﻿title,titleSlug,timestamp,number,difficulty,file,date
+title,titleSlug,timestamp,number,difficulty,file,date
 3Sum,3sum,1795351499,15,Medium,Arrays/0015-3sum.cpp,2026-11-22
 Add Two Numbers,add-two-numbers,1794925475,2,Medium,Linked-List/0002-add-two-numbers.cpp,2026-11-17
 Calculate Digit Sum of a String,calculate-digit-sum-of-a-string,1795100184,2243,Easy,Strings/2243-calculate-digit-sum-of-a-string.cpp,2026-11-19
@@ -38,5 +38,5 @@ Count Non-Decreasing Subarrays After K Operations,count-non-decreasing-subarrays
 
 Stone Removal Game,stone-removal-game,1795703846,3360,Easy,Python/3360-stone-removal-game.py,2026-11-26
 Climbing Stairs II,climbing-stairs-ii,1795703923,3693,Medium,Dynamic-Programming/3693-climbing-stairs-ii.py,2026-11-26
-Find Servers That Handled Most Number of Requests,find-servers-that-handled-most-number-of-requests,,1606,Hard,Python/1606-find-servers-that-handled-most-number-of-requests.py,2026-11-27
-Maximum Number of Items From Sale I,maximum-number-of-items-from-sale-i,,3946,Medium,Python/3946-maximum-number-of-items-from-sale-i.py,2026-11-27
+Find Servers That Handled Most Number of Requests,find-servers-that-handled-most-number-of-requests,1795750652,1606,Hard,Python/1606-find-servers-that-handled-most-number-of-requests.py,2026-11-27
+Maximum Number of Items From Sale I,maximum-number-of-items-from-sale-i,1795750585,3946,Medium,Python/3946-maximum-number-of-items-from-sale-i.py,2026-11-27
